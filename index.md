@@ -120,7 +120,6 @@ Modify the block below if there are any special requirements.
 </p>
 
 <hr/>
-<hr/>
 
 {% comment %}
 SCHEDULE
